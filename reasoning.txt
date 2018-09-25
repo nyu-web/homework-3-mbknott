@@ -1,0 +1,1 @@
+For the majority of the site I used the grid layout. The grid layout allowed me to divide the site below the nav bar into three columns, and within the center and right columns I could make rows. I used flexbox for the nav bar, spacing the buttons out evenly.
